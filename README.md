@@ -248,7 +248,7 @@ Gerardo Cicalese - gerardo.cicalese@mail.polimi.it<br/>
 Gennaro D'Imperio - gennaro.dimperio@mail.polimi.it<br/>
 Giorgio Granello - giorgio.granello@mail.polimi.it<br/>
 
-Project Link: [https://github.com/mazamin7/rhythm_wheel](https://github.com/mazamin7/rhythm_wheel)
+Project Link: [https://github.com/Quentin50ino/rhythm-wheel](https://github.com/Quentin50ino/rhythm-wheel)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
