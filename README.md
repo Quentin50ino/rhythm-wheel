@@ -106,7 +106,7 @@ We don’t have dots, but steps, making the web app easier to use with a mouse.<
 
 1. Start with cloning this repo on your local machine:
    ```sh
-   git clone https://github.com/mazamin7/rhythm_wheel.git
+   git clone https://github.com/Quentin50ino/rhythm-wheel.git
    ```
 2. Go to the repository directory
    ```sh
